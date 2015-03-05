@@ -2,13 +2,6 @@ master added a line
 master added a line again
 develop modified a line
 develop added a line again
-task modified a line
-task modified a line again
-task1 added a line
-task added a line for third time
-task1 added a line for second time
-task modified a line for forth time
-task added a line for fifth time
 in task
 in task1
 added a line by ME
