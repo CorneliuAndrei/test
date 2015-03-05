@@ -1,6 +1,6 @@
 master added a line
 master added a line again
-develop added a line
+develop modified a line
 develop added a line again
 task modified a line
 task added a line again
