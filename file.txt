@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 master added a line
 master added a line again
 develop modified a line
@@ -6,3 +7,6 @@ in task
 in task1
 added a line by ME
 aaaaaaddddddd
+=======
+all file was modified
+>>>>>>> 95251a7e53188ef83c4c211eb199a97c5894641e
