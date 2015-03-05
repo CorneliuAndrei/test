@@ -1,7 +1,1 @@
-master added a line
-master added a line again
-develop modified a line
-develop added a line again
-in task
-in task1
-added a line by ME
+all file was modified
